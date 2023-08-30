@@ -1,2 +1,2 @@
 # 92R_10KCoders
-Projects and assignments of 92R
+Projects & assignments of 92R Batch
